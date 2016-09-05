@@ -1,4 +1,4 @@
-print("Hello World!")
-print("Hello everybody!")
-cout<< "hello"
+print("Hello World!");
+print("Hello everybody!");
+cout<< "hello";
 cout<< "hello" << endl;
