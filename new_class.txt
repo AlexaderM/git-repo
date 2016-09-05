@@ -1,0 +1,8 @@
+class new_class{
+	new_class();
+};
+
+new_class::new_class()
+{
+	print("Create new object");
+}
